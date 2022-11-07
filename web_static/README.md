@@ -1,0 +1,1 @@
+Solutions to Airbnb clone web statics using HTML and CSS
